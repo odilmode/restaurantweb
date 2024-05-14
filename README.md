@@ -23,7 +23,7 @@ Welcome to the Restaurant Website project! This web application is designed for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/restaurant-website.git
+   git clone https://github.com/your-username/restaurantweb.git
    ```
 
 2. Set up the frontend and backend:
